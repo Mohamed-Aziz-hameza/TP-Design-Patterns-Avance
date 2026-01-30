@@ -1,0 +1,11 @@
+Travail Pratique : Patron de conception
+Flyweight en Java
+Enseignant : Haythem Ghazouani
+Module : Design Patterns
+Objectifs du TP
+• Comprendre et impl´ementer le patron de conception Flyweight en
+Java.
+• Observer le gain de m´emoire en utilisant le Flyweight pour partager les
+objets communs.
+• D´evelopper une application graphique simple avec Swing pour visu
+aliser les objets.
